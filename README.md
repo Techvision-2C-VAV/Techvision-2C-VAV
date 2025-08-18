@@ -26,8 +26,21 @@ Nosso foco é aprender e aplicar conceitos de **desenvolvimento web**, **banco d
 
 ## 🤝 Colaboradores
 <p align="center">
-  <a href="https://github.com/BeatrizLima08"><img src="https://avatars.githubusercontent.com/u/224562488?v=4" width="100px;"/><br /><sub><b>Beatriz</b></sub></a>  
-  <a href="https://github.com/clarihlinda"><img src="https://avatars.githubusercontent.com/u/224047383?v=4" width="100px;"/><br /><sub><b>Clarice</b></sub></a>  
-  <a href="https://github.com/GustavoGG2807"><img src="https://avatars.githubusercontent.com/u/224045021?v=4" width="100px;"/><br /><sub><b>Gustavo Guilherme</b></sub></a>  
-  <a href="https://github.com/vinigc-dev"><img src="https://avatars.githubusercontent.com/u/178515748?v=4" width="100px;"/><br /><sub><b>Vinícius</b></sub></a>  
+  <a href="https://github.com/BeatrizLima08">
+    <img src="https://avatars.githubusercontent.com/u/224562488?v=4" width="100px" /><br />
+    <sub><b>Beatriz</b></sub>
+  </a>  
+  <a href="https://github.com/clarihlinda">
+    <img src="https://avatars.githubusercontent.com/u/224047383?v=4" width="100px" /><br />
+    <sub><b>Clarice</b></sub>
+  </a>  
+  <a href="https://github.com/GustavoGG2807">
+    <img src="https://avatars.githubusercontent.com/u/224045021?v=4" width="100px" /><br />
+    <sub><b>Gustavo Guilherme</b></sub>
+  </a>  
+  <a href="https://github.com/vinigc-dev">
+    <img src="https://avatars.githubusercontent.com/u/178515748?v=4" width="100px" /><br />
+    <sub><b>Vinícius</b></sub>
+  </a>  
 </p>
+
