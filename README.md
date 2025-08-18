@@ -26,8 +26,8 @@ Nosso foco é aprender e aplicar conceitos de **desenvolvimento web**, **banco d
 
 ## 🤝 Colaboradores
 <p align="center">
-  <a href="https://github.com/usuario1"><img src="https://avatars.githubusercontent.com/u/ID1?v=4" width="100px;" alt="Beatriz"/><br /><sub><b>Beatriz</b></sub></a>  
-  <a href="https://github.com/usuario2"><img src="https://avatars.githubusercontent.com/u/ID2?v=4" width="100px;" alt="Clarice"/><br /><sub><b>Clarice</b></sub></a>  
-  <a href="https://github.com/usuario3"><img src="https://avatars.githubusercontent.com/u/ID3?v=4" width="100px;" alt="Gustavo"/><br /><sub><b>Gustavo</b></sub></a>  
-  <a href="https://github.com/usuario4"><img src="https://avatars.githubusercontent.com/u/ID4?v=4" width="100px;" alt="Vinícius"/><br /><sub><b>Vinícius</b></sub></a>  
+  <a href="https://github.com/vinigc-dev"><img src="https://avatars.githubusercontent.com/u/ID1?v=4" width="100px;" alt="Beatriz"/><br /><sub><b>Beatriz</b></sub></a>  
+  <a href="https://github.com/clarihlinda"><img src="https://avatars.githubusercontent.com/u/ID2?v=4" width="100px;" alt="Clarice"/><br /><sub><b>Clarice</b></sub></a>  
+  <a href="https://github.com/BeatrizLima08"><img src="https://avatars.githubusercontent.com/u/ID3?v=4" width="100px;" alt="Gustavo"/><br /><sub><b>Gustavo Guilherme</b></sub></a>  
+  <a href="https://github.com/GustavoGG2807"><img src="https://avatars.githubusercontent.com/u/ID4?v=4" width="100px;" alt="Vinícius"/><br /><sub><b>Vinícius</b></sub></a>  
 </p>
