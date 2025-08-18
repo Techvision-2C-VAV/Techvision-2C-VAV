@@ -26,21 +26,22 @@ Nosso foco é aprender e aplicar conceitos de **desenvolvimento web**, **banco d
 
 ## 🤝 Colaboradores
 <p align="center">
-  <a href="https://github.com/BeatrizLima08">
-    <img src="https://avatars.githubusercontent.com/u/224562488?v=4" width="100px" /><br />
+  <a href="https://github.com/BeatrizLima08" style="margin: 10px; display: inline-block; text-align: center;">
+    <img src="https://i.ibb.co/7y1Q0mP/Beatriz.png" width="100px" style="border-radius: 50%;" /><br />
     <sub><b>Beatriz</b></sub>
   </a>  
-  <a href="https://github.com/clarihlinda">
-    <img src="https://avatars.githubusercontent.com/u/224047383?v=4" width="100px" /><br />
+  <a href="https://github.com/clarihlinda" style="margin: 10px; display: inline-block; text-align: center;">
+    <img src="https://i.ibb.co/6Y6WZrT/Clarice.png" width="100px" style="border-radius: 50%;" /><br />
     <sub><b>Clarice</b></sub>
   </a>  
-  <a href="https://github.com/GustavoGG2807">
-    <img src="https://avatars.githubusercontent.com/u/224045021?v=4" width="100px" /><br />
+  <a href="https://github.com/GustavoGG2807" style="margin: 10px; display: inline-block; text-align: center;">
+    <img src="https://i.ibb.co/KyK5pKf/Gustavo.png" width="100px" style="border-radius: 50%;" /><br />
     <sub><b>Gustavo Guilherme</b></sub>
   </a>  
-  <a href="https://github.com/vinigc-dev">
-    <img src="https://avatars.githubusercontent.com/u/178515748?v=4" width="100px" /><br />
+  <a href="https://github.com/vinigc-dev" style="margin: 10px; display: inline-block; text-align: center;">
+    <img src="https://i.ibb.co/FHgk9sH/Vinicius.png" width="100px" style="border-radius: 50%;" /><br />
     <sub><b>Vinícius</b></sub>
   </a>  
 </p>
+
 
