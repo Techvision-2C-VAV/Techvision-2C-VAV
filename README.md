@@ -11,8 +11,6 @@ Trabalhamos em equipe na disciplina de **Programação Web II**, desenvolvendo s
 
 ## 👥 Equipe
 
-## 👥 Equipe
-
 <p align="center">
   <table>
     <tr>
@@ -48,6 +46,7 @@ Trabalhamos em equipe na disciplina de **Programação Web II**, desenvolvendo s
   </table>
 </p>
 
+---
 
 **Orientadores:** Ronildo e Luciana  
 
