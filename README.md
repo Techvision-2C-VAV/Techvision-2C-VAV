@@ -11,40 +11,43 @@ Trabalhamos em equipe na disciplina de **Programação Web II**, desenvolvendo s
 
 ## 👥 Equipe
 
+## 👥 Equipe
+
 <p align="center">
   <table>
     <tr>
       <td align="center">
         <a href="https://github.com/BeatrizLima08">
           <img src="https://github.com/BeatrizLima08.png" width="100" style="border-radius:50%" alt="BeatrizLima08"/>
-          <br/>
-          <sub><b>Beatriz Lia de Carvalho</b></sub>
         </a>
+        <br/>
+        <b>Beatriz Lima de Carvalho</b>
       </td>
       <td align="center">
         <a href="https://github.com/clarihlinda">
           <img src="https://github.com/clarihlinda.png" width="100" style="border-radius:50%" alt="clarihlinda"/>
-          <br/>
-          <sub><b>Clarice Dias Ribeiro</b></sub>
         </a>
+        <br/>
+        <b>Clarice Dias Ribeiro</b>
       </td>
       <td align="center">
         <a href="https://github.com/GustavoGG2807">
           <img src="https://github.com/GustavoGG2807.png" width="100" style="border-radius:50%" alt="GustavoGG2807"/>
-          <br/>
-          <sub><b>Gustavo Guilherme Fernandes Silva</b></sub>
         </a>
+        <br/>
+        <b>Gustavo Guilherme F. Silva</b>
       </td>
       <td align="center">
         <a href="https://github.com/vinigc-dev">
           <img src="https://github.com/vinigc-dev.png" width="100" style="border-radius:50%" alt="vinigc-dev"/>
-          <br/>
-          <sub><b>Vinícius Gomes Correia</b></sub>
         </a>
+        <br/>
+        <b>Vinícius Gomes Correia</b>
       </td>
     </tr>
   </table>
 </p>
+
 
 **Orientadores:** Ronildo e Luciana  
 
